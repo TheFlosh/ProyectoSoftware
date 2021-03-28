@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="ImgBotones">
+    <file>Imagenes/pict_mama.jpg</file>
+    <file>Imagenes/pict_papa.jpg</file>
+    <file>Imagenes/pict_Beber.jpg</file>
+    <file>Imagenes/pict_Cama.png</file>
+    <file>Imagenes/pict_Comer.jpg</file>
+    <file>Imagenes/pict_Dar.jpg</file>
+    <file>Imagenes/pict_Dormir.png</file>
+    <file>Imagenes/pict_Hola.png</file>
+    <file>Imagenes/pict_Ir.png</file>
+    <file>Imagenes/pict_Jugar.jpg</file>
+    <file>Imagenes/pict_mirar.jpg</file>
+    <file>Imagenes/pict_Trabajar.jpg</file>
+    <file>Imagenes/pict_Yo.png</file>
+  </qresource>
+</RCC>
